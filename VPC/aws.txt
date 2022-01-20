@@ -1,0 +1,7 @@
+aws_cli_link:- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+command :- aws --version
+command:- aws configure 
+Access Key ID:- ##############
+Secret access key:- #####################
+Region: #####ap-south-1#####
+Default Output:- #####json####
